@@ -1,0 +1,13 @@
+{
+  "student_id": "student001",
+  "name": "Alex",
+  "preferences": {
+    "visual": 0.6190476190476191,
+    "audio": 0.2857142857142857,
+    "text": 0.09523809523809523
+  },
+  "learning_challenges": [
+    "dyslexia"
+  ],
+  "notes": "Prefers short explanations and visual aids"
+}
